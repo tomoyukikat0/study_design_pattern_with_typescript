@@ -20,3 +20,7 @@ class Circle implements Shape {
     return this.radius * this.radius * Math.PI;
   }
 }
+
+class Client {
+  private shape: Shape;
+}
