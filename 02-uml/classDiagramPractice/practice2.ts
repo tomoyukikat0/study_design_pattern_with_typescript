@@ -1,4 +1,3 @@
-import { Rectangle } from "../../03-solid-principle/liskovSubstitution/badExample";
 // クラス図 演習2
 interface Shape {
   calcArea(): number;
